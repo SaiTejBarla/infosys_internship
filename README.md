@@ -1,1 +1,12 @@
-Hey!! This is my journey at infosys springboard as a Data Visualization Engineer
+Hey!! This is my journey at infosys springboard as a Data Visualization Engineer.
+
+Month 1 >> Week 1
+
+Day 1 Tasks -
+1. Ask the user for a number and print whether its positive, negative or zero.
+2. Prints sum of 1-100 numbers.
+3. Create a list of numbers and create a list only of even numbers.
+4. Function that returns the square of a number.
+5. Count how many times each word appears in a sentence.
+6. Write text to a file and read it.
+7. Create a dataframe and find the average salary.
