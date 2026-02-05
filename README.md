@@ -2,7 +2,7 @@ Hey!! This is my journey at infosys springboard as a Data Visualization Engineer
 
 Month 1 >> Week 1
 
-Day 1 Tasks -
+Day 3 Tasks -
 1. Ask the user for a number and print whether its positive, negative or zero.
 2. Prints sum of 1-100 numbers.
 3. Create a list of numbers and create a list only of even numbers.
@@ -10,3 +10,10 @@ Day 1 Tasks -
 5. Count how many times each word appears in a sentence.
 6. Write text to a file and read it.
 7. Create a dataframe and find the average salary.
+
+Day 4 Tasks - 
+1. Find missing number in a sequence.
+2. Reverse words in a string without split.
+3. Without loops check whether the number is Power of 2.
+4. Flatten a nested list without using recursion.
+5. Find First Non-Repeating character. 
