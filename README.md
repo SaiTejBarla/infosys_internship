@@ -2,6 +2,8 @@ Hey!! This is my journey at infosys springboard as a Data Visualization Engineer
 
 Month 1 >> Week 1
 
+Day 1,2 - Done with introductions along with rules and regulations of the internship.
+
 Day 3 Tasks -
 1. Ask the user for a number and print whether its positive, negative or zero.
 2. Prints sum of 1-100 numbers.
@@ -17,3 +19,7 @@ Day 4 Tasks -
 3. Without loops check whether the number is Power of 2.
 4. Flatten a nested list without using recursion.
 5. Find First Non-Repeating character. 
+
+Day 5 -
+We were asked some about some basic knowledge on Health Care (based on our project).
+
