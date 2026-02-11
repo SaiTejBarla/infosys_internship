@@ -23,3 +23,7 @@ Day 4 Tasks -
 Day 5 -
 We were asked some about some basic knowledge on Health Care (based on our project).
 
+Week 2 >>
+Day 1 - Basics regarding health are covered
+Day 2 - 
+
