@@ -24,6 +24,12 @@ Day 5 -
 We were asked some about some basic knowledge on Health Care (based on our project).
 
 Week 2 >>
-Day 1 - Basics regarding health are covered
+Day 1 - Basics regarding health are covered.
+
 Day 2 - 
+Tasks - 
+1. Check if Two Strings Are Anagrams.
+2. Count Frequency of Each Word.
+3. Find the second largest number in a list.
+4. Reverse Words in a Sentence
 
