@@ -24,12 +24,21 @@ Day 5 -
 We were asked some about some basic knowledge on Health Care (based on our project).
 
 Week 2 >>
-Day 1 - Basics regarding health are covered.
+Day 1,2 - Basics regarding health are covered.
 
-Day 2 - 
+Day 3 - 
 Tasks - 
 1. Check if Two Strings Are Anagrams.
 2. Count Frequency of Each Word.
 3. Find the second largest number in a list.
 4. Reverse Words in a Sentence
+
+Day 4 - Starting with Numpy library in python.
+Tasks (learning with basics of NumPy) -
+1. Difference B/w normal array and a NumPy array.
+2. Checking type of normal array and numpy array.
+3. 2D and 3D Arrays.
+
+Day 5 -
+1. Creating an image with NumPy.
 
