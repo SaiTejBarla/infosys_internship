@@ -39,6 +39,14 @@ Tasks (learning with basics of NumPy) -
 2. Checking type of normal array and numpy array.
 3. 2D and 3D Arrays.
 
-Day 5 -
-1. Creating an image with NumPy.
+Day 5 -Creating useful array creation functions - 
+1. Zero matrix #prints all 0's
+2. One matric #prints all 1's
+3. Arange function.
+4. Linspace function.
+
+Array Attributes - 
+1. Addition, Subtraction, Multiplication, Division using NumPy.
+2. Sum, Mean, Max, Minimum & Standard Deviation.
+3. Indexing & Slicing.
 
