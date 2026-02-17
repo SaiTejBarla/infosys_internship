@@ -50,3 +50,5 @@ Array Attributes -
 2. Sum, Mean, Max, Minimum & Standard Deviation.
 3. Indexing & Slicing.
 
+Week 3 -
+Day 2 - Evaluation of previous 2 weeks.
