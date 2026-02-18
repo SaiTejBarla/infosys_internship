@@ -52,3 +52,4 @@ Array Attributes -
 
 Week 3 -
 Day 2 - Evaluation of previous 2 weeks.
+Day 3 - 
