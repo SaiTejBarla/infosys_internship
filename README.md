@@ -52,4 +52,5 @@ Array Attributes -
 
 Week 3 -
 Day 2 - Evaluation of previous 2 weeks.
-Day 3 - 
+Day 3 - Evaluation done by mentor.
+Day 4 - Completion of NumPy library.
