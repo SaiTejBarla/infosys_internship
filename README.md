@@ -59,3 +59,5 @@ Day 3 - Evaluation done by mentor.
 Day 4 - 
 1. Completion of NumPy library.
 2. New Library Pandas.
+
+Day - Working more on Pandas Library.
