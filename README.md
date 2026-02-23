@@ -1,63 +1,131 @@
-Hey!! This is my journey at infosys springboard as a Data Visualization Engineer.
+📊 Infosys Springboard Internship
+Data Visualization Engineer Track – Learning Journey
 
-Month 1 >> Week 1
+This repository documents my learning journey as a Data Visualization Engineer through the Infosys Springboard Virtual Internship Program.
 
-Day 1,2 - Done with introductions along with rules and regulations of the internship.
+🚀 Month 1 Progress
+📅 Week 1 – Foundations of Python
+🗓 Day 1 & 2
 
-Day 3 Tasks -
-1. Ask the user for a number and print whether its positive, negative or zero.
-2. Prints sum of 1-100 numbers.
-3. Create a list of numbers and create a list only of even numbers.
-4. Function that returns the square of a number.
-5. Count how many times each word appears in a sentence.
-6. Write text to a file and read it.
-7. Create a dataframe and find the average salary.
+ Completed internship introduction
 
-Day 4 Tasks - 
-1. Find missing number in a sequence.
-2. Reverse words in a string without split.
-3. Without loops check whether the number is Power of 2.
-4. Flatten a nested list without using recursion.
-5. Find First Non-Repeating character. 
+ Understood rules and guidelines
 
-Day 5 -
-We were asked some about some basic knowledge on Health Care (based on our project).
+🗓 Day 3 – Basic Python Tasks
 
-Week 2 >>
-Day 1,2 - Basics regarding health are covered.
+ Check if number is positive, negative, or zero
 
-Day 3 - 
-Tasks - 
-1. Check if Two Strings Are Anagrams.
-2. Count Frequency of Each Word.
-3. Find the second largest number in a list.
-4. Reverse Words in a Sentence
+ Sum of numbers from 1 to 100
 
-Day 4 - Starting with Numpy library in python.
-Tasks (learning with basics of NumPy) -
-1. Difference B/w normal array and a NumPy array.
-2. Checking type of normal array and numpy array.
-3. 2D and 3D Arrays.
+ Filter even numbers from a list
 
-Day 5 -Creating useful array creation functions - 
-1. Zero matrix #prints all 0's
-2. One matric #prints all 1's
-3. Arange function.
-4. Linspace function.
+ Function to return square of a number
 
-Array Attributes - 
-1. Addition, Subtraction, Multiplication, Division using NumPy.
-2. Sum, Mean, Max, Minimum & Standard Deviation.
-3. Indexing & Slicing.
+ Count word frequency in a sentence
 
-Week 3 Tasks-
+ File handling (read & write)
 
-Day 2 - Evaluation of previous 2 weeks.
+ Create DataFrame & calculate average salary
 
-Day 3 - Evaluation done by mentor.
+🗓 Day 4 – Problem Solving
 
-Day 4 - 
-1. Completion of NumPy library.
-2. New Library Pandas.
+ Find missing number in a sequence
 
-Day - Working more on Pandas Library.
+ Reverse words without using split()
+
+ Check power of 2 (without loops)
+
+ Flatten nested list (without recursion)
+
+ Find first non-repeating character
+
+🗓 Day 5 – Domain Knowledge
+
+ Introduction to Healthcare domain
+
+📅 Week 2 – Python Practice & NumPy
+🗓 Day 1 & 2
+
+ Learned healthcare basics
+
+🗓 Day 3 – Logical Problems
+
+ Check anagrams
+
+ Count word frequency
+
+ Find second largest number
+
+ Reverse words in a sentence
+
+🗓 Day 4 – NumPy Basics
+
+ Difference between list and NumPy array
+
+ Check data types
+
+ Work with 2D & 3D arrays
+
+🗓 Day 5 – Array Creation & Operations
+
+ Create zero matrix
+
+ Create ones matrix
+
+ Use arange()
+
+ Use linspace()
+
+Array Operations
+
+ Addition, Subtraction, Multiplication, Division
+
+ Sum, Mean, Max, Min, Standard Deviation
+
+ Indexing & slicing
+
+📅 Week 3 – Evaluation & Pandas
+🗓 Day 2
+
+ Completed evaluation (Week 1 & 2)
+
+🗓 Day 3
+
+ Mentor evaluation
+
+🗓 Day 4
+
+ Completed NumPy
+
+ Started Pandas
+
+🗓 Day 5 & 6
+
+ Worked with DataFrames
+
+ Practiced data manipulation
+
+📅 Week 4 – Ongoing
+🗓 Day 1
+
+ Advanced Pandas operations
+
+ Data cleaning & preprocessing
+
+ Preparing for visualization
+
+🧠 Skills Gained
+
+ Python Programming
+
+ Problem Solving
+
+ NumPy
+
+ Pandas
+
+ File Handling
+
+ Basic Healthcare Knowledge
+
+ Data Visualization (In Progress)
