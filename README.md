@@ -33,9 +33,9 @@ This repository documents my learning journey as a Data Visualization Engineer t
 
  Reverse words without using split()
 
- Check power of 2 (without loops)
+ Check power of 2 without loops
 
- Flatten nested list (without recursion)
+ Flatten nested list without recursion
 
  Find first non-repeating character
 
@@ -50,9 +50,9 @@ This repository documents my learning journey as a Data Visualization Engineer t
 
 🗓 Day 3 – Logical Problems
 
- Check anagrams
+ Check if two strings are anagrams
 
- Count word frequency
+ Count frequency of each word
 
  Find second largest number
 
@@ -60,11 +60,11 @@ This repository documents my learning journey as a Data Visualization Engineer t
 
 🗓 Day 4 – NumPy Basics
 
- Difference between list and NumPy array
+ Difference between Python list and NumPy array
 
  Check data types
 
- Work with 2D & 3D arrays
+ Work with 2D and 3D arrays
 
 🗓 Day 5 – Array Creation & Operations
 
@@ -78,16 +78,16 @@ This repository documents my learning journey as a Data Visualization Engineer t
 
 Array Operations
 
- Addition, Subtraction, Multiplication, Division
+ Addition, subtraction, multiplication, division
 
- Sum, Mean, Max, Min, Standard Deviation
+ Sum, mean, max, min, standard deviation
 
- Indexing & slicing
+ Indexing and slicing
 
 📅 Week 3 – Evaluation & Pandas
 🗓 Day 2
 
- Completed evaluation (Week 1 & 2)
+ Completed evaluation of Week 1 and Week 2
 
 🗓 Day 3
 
@@ -110,9 +110,9 @@ Array Operations
 
  Advanced Pandas operations
 
- Data cleaning & preprocessing
+ Data cleaning and preprocessing
 
- Preparing for visualization
+ Preparing for data visualization
 
 🧠 Skills Gained
 
@@ -126,6 +126,16 @@ Array Operations
 
  File Handling
 
- Basic Healthcare Knowledge
+ Healthcare Domain Basics
 
  Data Visualization (In Progress)
+
+🎯 Next Goals
+
+ Learn Matplotlib
+
+ Learn Seaborn
+
+ Build visualization dashboards
+
+ Complete healthcare project
