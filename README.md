@@ -1,4 +1,3 @@
-📊 Infosys Springboard Internship
 Data Visualization Engineer Track – Learning Journey
 
 This repository documents my learning journey as a Data Visualization Engineer through the Infosys Springboard Virtual Internship Program.
@@ -134,8 +133,11 @@ Array Operations
 
  Learn Matplotlib
 
- Learn Seaborn
-
  Build visualization dashboards
 
  Complete healthcare project
+
+🚀 Author
+
+Sai Tej Barla
+Aspiring Data Analyst | Data Visualization Engineer
