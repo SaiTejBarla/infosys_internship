@@ -140,7 +140,8 @@ Healthcare Analytics
 
  Preparing for visualization
 
- Day 2 & 3 - Assessment on NumPy and Pandas.
+ Day 2  - 
+ Data Filling
 
 💼 About Me
 
