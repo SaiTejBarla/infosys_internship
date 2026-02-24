@@ -140,50 +140,11 @@ Healthcare Analytics
 
  Preparing for visualization
 
-🎯 Learning Goals
-
- Data Visualization with Matplotlib
-
- Data Visualization with Seaborn
-
- Dashboard creation
-
- Healthcare data project
-
-📊 Future Enhancements
-
-📈 Interactive Dashboards
-
-📊 Real-world datasets
-
-📁 End-to-end project
-
-📉 Data storytelling
+ Day 2 & 3 - Assessment on NumPy and Pandas.
 
 💼 About Me
 
 Sai Tej Barla
 Aspiring Data Analyst | Data Visualization Engineer
 
-Skilled in Python, NumPy, Pandas
-
-Interested in Data Analytics & Visualization
-
-Focused on real-world problem solving
-
-⭐ Repository Purpose
-
-This repository serves as:
-
-📘 A learning journal
-
-📊 A progress tracker
-
-💼 A portfolio for recruiters
-
-🔥 Highlights
-
-✔ Hands-on problem solving
-✔ Strong Python foundation
-✔ Data handling using Pandas
-✔ Domain knowledge in Healthcare
+althcare
