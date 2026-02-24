@@ -141,7 +141,8 @@ Healthcare Analytics
  Preparing for visualization
 
  Day 2  - 
- Data Filling
+ Data Filling.
+ Mini Project using NumPy and Pandas library.
 
 💼 About Me
 
