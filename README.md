@@ -154,6 +154,7 @@ Healthcare Analytics
  Week 1 -
   Day 1 -
   Finalized the problem statement and the dataset.
+  Starting with MatplotLib.
  
 
 💼 About Me
