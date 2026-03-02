@@ -152,6 +152,8 @@ Healthcare Analytics
 
  Month 2 - 
  Week 1 -
+  Day 1 -
+  Finalized the problem statement and the dataset.
  
 
 💼 About Me
