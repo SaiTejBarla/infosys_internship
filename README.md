@@ -147,6 +147,13 @@ Healthcare Analytics
  Day 3 - 
  Gathering datasets and problem statements.
 
+ Day 4,5,6 -
+ Preparation of Problem Statement and its dataset
+
+ Month 2 - 
+ Week 1 -
+ 
+
 💼 About Me
 
 Sai Tej Barla
