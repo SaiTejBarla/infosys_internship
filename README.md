@@ -2,164 +2,136 @@
 🚀 Data Visualization Engineer Track
 <p align="center"> <b>Learning Journey • Progress Tracking • Skill Development</b> </p>
 🏆 Internship Details
-
 Platform: Infosys Springboard
-
 Role: Data Visualization Engineer Intern
-
 Domain: Healthcare Analytics
-
-Duration: 1 Month (Ongoing)
-
+Duration: 2 Months
 📈 Progress Overview
-Month 1 Progress:  █████████████████░░░░  80%
+
+Overall Completion:
+████████████████████ 100%
+
 🧠 Skills & Tools
 💻 Programming & Libraries
-
-
-
-
-
-
-
-
-📊 Concepts
-
+Python
+NumPy
+Pandas
+Matplotlib
+📊 Core Concepts
 Data Cleaning
-
 Data Manipulation
-
 Problem Solving
-
 Healthcare Analytics
-
-🚀 Month 1 Progress
+🚀 Internship Progress
 📅 Week 1 – Foundations of Python
-🗓 Day 1 & Day 2
 
- Completed internship introduction
+Day 1 & 2
 
- Understood rules and guidelines
+Completed internship introduction
+Understood rules and guidelines
 
-🗓 Day 3 – Basic Python Tasks
+Day 3 – Basic Python Tasks
 
- Number classification (positive/negative/zero)
+Number classification (positive/negative/zero)
+Sum of numbers (1–100)
+Even numbers filtering
+Function for square calculation
+Word frequency counter
+File handling (read/write)
+DataFrame creation & average salary calculation
 
- Sum of numbers (1–100)
+Day 4 – Problem Solving
 
- Even numbers filtering
+Missing number in sequence
+Reverse words without using split()
+Power of 2 check (without loops)
+Flatten nested list
+First non-repeating character
 
- Function for square calculation
+Day 5 – Domain Knowledge
 
- Word frequency counter
-
- File handling (read/write)
-
- DataFrame creation & average salary
-
-🗓 Day 4 – Problem Solving
-
- Missing number in sequence
-
- Reverse words without split()
-
- Power of 2 check (no loops)
-
- Flatten nested list
-
- First non-repeating character
-
-🗓 Day 5 – Domain Knowledge
-
- Healthcare basics
-
+Introduction to healthcare fundamentals
 📅 Week 2 – Python & NumPy
-🗓 Day 1 & Day 2
 
- Healthcare concepts
+Day 1 & 2
 
-🗓 Day 3 – Logical Problems
+Continued healthcare domain concepts
 
- Anagram check
+Day 3 – Logical Problems
 
- Word frequency
+Anagram check
+Word frequency analysis
+Second largest number
+Reverse sentence
 
- Second largest number
+Day 4 – NumPy Basics
 
- Reverse sentence
+Python lists vs NumPy arrays
+Data types
+2D & 3D arrays
 
-🗓 Day 4 – NumPy Basics
+Day 5 – Array Operations
 
- Python list vs NumPy array
-
- Data types
-
- 2D & 3D arrays
-
-🗓 Day 5 – Array Operations
-
- Zero & One matrices
-
- arange() & linspace()
-
- Mathematical operations
-
- Statistical functions
-
- Indexing & slicing
-
+Zero & One matrices
+arange() and linspace()
+Mathematical operations
+Statistical functions
+Indexing & slicing
 📅 Week 3 – Evaluation & Pandas
-🗓 Day 2
 
- Evaluation completed
+Day 2
 
-🗓 Day 3
+Completed evaluation
 
- Mentor review
+Day 3
 
-🗓 Day 4
+Mentor review
 
- NumPy completed
+Day 4
 
- Started Pandas
+Completed NumPy
+Started Pandas
 
-🗓 Day 5 & Day 6
+Day 5 & 6
 
- DataFrames
+DataFrames
+Data manipulation
+📅 Week 4 – Data Processing & Preparation
 
- Data manipulation
+Day 1
 
-📅 Week 4 – Ongoing
-🗓 Day 1
+Advanced Pandas
+Data cleaning
+Data preprocessing
+Preparing data for visualization
 
- Advanced Pandas
+Day 2
 
- Data cleaning
+Data filling techniques
+Mini project using NumPy & Pandas
 
- Data preprocessing
+Day 3
 
- Preparing for visualization
+Dataset collection
+Problem statement exploration
 
- Day 2  - 
- Data Filling.
- Mini Project using NumPy and Pandas library.
+Day 4–6
 
- Day 3 - 
- Gathering datasets and problem statements.
-
- Day 4,5,6 -
- Preparation of Problem Statement and its dataset
-
- Month 2 - 
- Week 1 -
-  Day 1 -
-  Finalized the problem statement and the dataset.
-  Starting with MatplotLib.
- 
+Finalized problem statement
+Dataset preparation
+📅 Month 2 – Visualization & Project Implementation
+Week 1
+Finalized problem statement and dataset
+Started working with Matplotlib
+Week 1–2 Focus
+In-depth learning of Matplotlib
+Data visualization techniques
+Week 2 (From Day 2 Onwards)
+Internship project work officially commenced
+Applied visualization techniques to healthcare datasets.
 
 💼 About Me
 
 Sai Tej Barla
 Aspiring Data Analyst | Data Visualization Engineer
-
-althcare
+Focused on Healthcare Analytics, Data Visualization
