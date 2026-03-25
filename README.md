@@ -1,137 +1,104 @@
-📊 Infosys Springboard Internship
-🚀 Data Visualization Engineer Track
-<p align="center"> <b>Learning Journey • Progress Tracking • Skill Development</b> </p>
-🏆 Internship Details
-Platform: Infosys Springboard
-Role: Data Visualization Engineer Intern
-Domain: Healthcare Analytics
-Duration: 2 Months
-📈 Progress Overview
+# 📊 Infosys Springboard Internship
 
-Overall Completion:
-████████████████████ 100%
+## Data Visualization Engineer Track
 
-🧠 Skills & Tools
-💻 Programming & Libraries
-Python
-NumPy
-Pandas
-Matplotlib
-📊 Core Concepts
-Data Cleaning
-Data Manipulation
-Problem Solving
-Healthcare Analytics
-🚀 Internship Progress
-📅 Week 1 – Foundations of Python
+<p align="center"> 
+<b>Learning Journey • Progress Tracking • Skill Development</b> 
+</p>
 
-Day 1 & 2
+---
 
-Completed internship introduction
-Understood rules and guidelines
+## 🏆 Internship Overview
 
-Day 3 – Basic Python Tasks
+* **Platform:** Infosys Springboard
+* **Role:** Data Visualization Engineer Intern
+* **Domain:** Healthcare Analytics
+* **Duration:** 2 Months
 
-Number classification (positive/negative/zero)
-Sum of numbers (1–100)
-Even numbers filtering
-Function for square calculation
-Word frequency counter
-File handling (read/write)
-DataFrame creation & average salary calculation
+---
 
-Day 4 – Problem Solving
+## 📈 Progress Summary
 
-Missing number in sequence
-Reverse words without using split()
-Power of 2 check (without loops)
-Flatten nested list
-First non-repeating character
+**Overall Completion:**
+`████████████████████ 100%`
 
-Day 5 – Domain Knowledge
+---
 
-Introduction to healthcare fundamentals
-📅 Week 2 – Python & NumPy
+## 🧠 Skills & Tools
 
-Day 1 & 2
+**Programming & Libraries**
 
-Continued healthcare domain concepts
+* Python
+* NumPy
+* Pandas
+* Matplotlib
 
-Day 3 – Logical Problems
+**Core Competencies**
 
-Anagram check
-Word frequency analysis
-Second largest number
-Reverse sentence
+* Data Cleaning & Preprocessing
+* Data Manipulation
+* Problem Solving
+* Healthcare Analytics
 
-Day 4 – NumPy Basics
+---
 
-Python lists vs NumPy arrays
-Data types
-2D & 3D arrays
+## 📅 Internship Journey
 
-Day 5 – Array Operations
+### Week 1 – Python Foundations
 
-Zero & One matrices
-arange() and linspace()
-Mathematical operations
-Statistical functions
-Indexing & slicing
-📅 Week 3 – Evaluation & Pandas
+* Completed onboarding and guidelines
+* Implemented basic Python programs and logic-building exercises
+* Developed problem-solving skills through structured tasks
+* Gained foundational understanding of healthcare domain concepts
 
-Day 2
+---
 
-Completed evaluation
+### Week 2 – NumPy & Analytical Thinking
 
-Day 3
+* Strengthened logical problem-solving abilities
+* Learned NumPy fundamentals (arrays, data types, operations)
+* Performed statistical analysis and array manipulations
 
-Mentor review
+---
 
-Day 4
+### Week 3 – Evaluation & Pandas
 
-Completed NumPy
-Started Pandas
+* Successfully completed evaluation and mentor review
+* Transitioned from NumPy to Pandas
+* Worked with DataFrames and data manipulation techniques
 
-Day 5 & 6
+---
 
-DataFrames
-Data manipulation
-📅 Week 4 – Data Processing & Preparation
+### Week 4 – Data Preparation
 
-Day 1
+* Applied advanced Pandas techniques
+* Performed data cleaning and preprocessing
+* Conducted mini-project using NumPy and Pandas
+* Finalized problem statement and dataset for project
 
-Advanced Pandas
-Data cleaning
-Data preprocessing
-Preparing data for visualization
+---
 
-Day 2
+## 📊 Month 2 – Visualization & Project Work
 
-Data filling techniques
-Mini project using NumPy & Pandas
+### Learning Phase
 
-Day 3
+* Developed proficiency in Matplotlib
+* Learned core data visualization techniques
+* Focused on presenting insights effectively
 
-Dataset collection
-Problem statement exploration
+### Implementation Phase
 
-Day 4–6
+* Initiated internship project work
+* Applied visualization techniques to healthcare datasets
+* Worked on real-world problem-solving and insights generation
 
-Finalized problem statement
-Dataset preparation
-📅 Month 2 – Visualization & Project Implementation
-Week 1
-Finalized problem statement and dataset
-Started working with Matplotlib
-Week 1–2 Focus
-In-depth learning of Matplotlib
-Data visualization techniques
-Week 2 (From Day 2 Onwards)
-Internship project work officially commenced
-Applied visualization techniques to healthcare datasets.
+---
 
-💼 About Me
+## 💼 About Me
 
-Sai Tej Barla
+**Sai Tej Barla**
 Aspiring Data Analyst | Data Visualization Engineer
-Focused on Healthcare Analytics, Data Visualization
+
+Focused on building impactful data solutions in **Healthcare Analytics**, with strong emphasis on **data visualization and real-world problem solving**.
+
+---
